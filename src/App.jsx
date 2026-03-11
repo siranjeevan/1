@@ -9,7 +9,7 @@ function App() {
         <div className="header-content">
           <div className="logo">
             <span className="logo-icon">📊</span>
-            <h1>Hope3</h1>
+            <h1>Hope3r</h1>
           </div>
           <p className="tagline">Test CRUD operations for Donations, Students, Volunteers & Feedback</p>
         </div>
